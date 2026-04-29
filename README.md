@@ -8,3 +8,4 @@ It contains a basic setup and serves as a starting point for learning version co
 
 Änderung auf lokaler Kopie
 
+Änderung auf GH
